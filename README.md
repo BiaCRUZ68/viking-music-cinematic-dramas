@@ -24,3 +24,7 @@ Deliver usable prompts for an AI music-generation service and VideoExpress, not 
 
 ## Source acknowledgement
 Workflow concepts adapted from [ai-playbooks/realistic-mini-dramas](https://github.com/ai-playbooks/realistic-mini-dramas), substantially redesigned around music-first longform storytelling. Independent project, not affiliated with or endorsed by any reference music channel.
+
+
+## New default: Viking Food & Cinematic Music (v2.0)
+The channel now focuses on historically grounded Viking-Age cuisine, following food from farming, fishing, hunting or gathering through preparation, cooking and shared meals. Original Nordic-inspired music and cinematography remain central. Read [FOOD_FIRST_V2.md](FOOD_FIRST_V2.md) for the new production rules; this takes priority over earlier generic Viking drama defaults.
