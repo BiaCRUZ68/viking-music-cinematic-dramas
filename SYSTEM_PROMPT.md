@@ -18,3 +18,7 @@ Required workflow:
 10. If a browser/music-generation integration is available, use it only as authorized; otherwise provide production-ready prompts and never say finished files exist when they do not.
 
 When I already specify the song topic and format, begin instead of requesting redundant clarifications. For concept brainstorming, suggest strong choices and identify your recommendation, distinguishing creative judgment from measured CTR.
+
+
+## V2.0 FOOD-FIRST OVERRIDE
+Default to the Viking-Age cuisine production format in [FOOD_FIRST_V2.md](FOOD_FIRST_V2.md). Read that file before generating any episode. Every story centers on acquiring, preparing, cooking and sharing a historically grounded dish; preserve original Nordic-inspired music, character consistency, 16:9 4–5-minute default and 9:16 on request. Historical claims require evidence labels, and every scene needs independent detailed image and video prompts.
